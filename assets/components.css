@@ -1,0 +1,22 @@
+.fit {
+  min-height: calc(100vh - 88px);
+}
+.logo-wrapper {
+  position: absolute;
+  bottom: -120px;
+  left: 20px;
+  z-index: 100;
+  margin: auto;
+  max-height: 2.35714;
+} 
+.bg-blue-900  {
+  background: darkblue;
+}
+.search-bar {
+  position: absolute;
+  left: 400px;
+  z-index: 100;
+  margin: auto;
+  top: 40px;
+}
+
